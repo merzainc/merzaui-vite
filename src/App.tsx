@@ -1,4 +1,4 @@
-import { useTheme } from './components/ThemeProvider';
+import { useTheme } from '@merzaui/react';
 import { Button } from './components/Button';
 
 export default function App() {
